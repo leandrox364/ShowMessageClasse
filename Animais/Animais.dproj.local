@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/08 20:21:13.000.486,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/17 17:40:08.000.834,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 17:47:14.000.995,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 17:48:10.000.880,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\Animais\View\View.Main.dfm</Transaction>
+    <Transaction>2023/07/18 17:48:10.000.880,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Animais\View\View.Main.pas</Transaction>
+    <Transaction>2023/07/18 17:48:18.000.528,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Animais\Animais.dproj</Transaction>
+    <Transaction>2023/07/18 17:48:44.000.410,=C:\Projetos\Animais\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 17:51:08.000.884,C:\Projetos\Animais\Unit1.pas=C:\Projetos\Animais\Interface\IAnimal.pas</Transaction>
+    <Transaction>2023/07/18 17:51:29.000.064,C:\Projetos\Animais\Interface\IAnimal.pas=C:\Projetos\Animais\Interface\IntercafeAnimal.pas</Transaction>
+    <Transaction>2023/07/18 18:00:45.000.730,=C:\Projetos\Animais\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 18:01:50.000.196,C:\Projetos\Animais\Unit1.pas=C:\Projetos\Animais\Interface\InterfaceCachorro.pas</Transaction>
+    <Transaction>2023/07/18 18:07:35.000.220,=C:\Projetos\Animais\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 18:08:13.000.698,C:\Projetos\Animais\Unit1.pas=C:\Projetos\Animais\Implements\Implemente.Cachorro.pas</Transaction>
+    <Transaction>2023/07/18 20:09:29.000.338,C:\Projetos\Animais\Interface\InterfaceCachorro.pas=</Transaction>
+    <Transaction>2023/07/24 16:35:00.000.352,=C:\Projetos\Animais\Unit1.pas</Transaction>
+    <Transaction>2023/07/24 16:35:46.000.186,C:\Projetos\Animais\Implements\Implement.Gato.pas=C:\Projetos\Animais\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 20:04:48.000.448,C:\Projetos\Animais\Implements\Implement.Gato.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
